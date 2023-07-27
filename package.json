@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "jsonwebtoken": "^9.0.1",
+    "mongoose": "^7.4.0",
+    "nodemon": "^3.0.1",
+    "uuid": "^9.0.0"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "name": "middle-project",
+  "version": "1.0.0",
+  "description": "Project Middle Gigih 3.0 Backend Only",
+  "main": "index.js",
+  "author": "Benny",
+  "license": "ISC"
+}
