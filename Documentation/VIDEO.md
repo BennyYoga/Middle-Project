@@ -189,7 +189,7 @@ To edit data video
 | 400         | `BAD REQUEST`           |
 | 500         | `INTERNAL SERVER ERROR` |
 
-## Create Video
+## Delete Video
 
 To deleted data video
 
